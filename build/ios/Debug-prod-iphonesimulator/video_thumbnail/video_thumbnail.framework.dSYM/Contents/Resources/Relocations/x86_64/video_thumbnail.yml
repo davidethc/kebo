@@ -1,0 +1,17 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/monkyd/Desktop/KEBOMOBILEDAVIDE/login/kebo-mobile/build/ios/Debug-prod-iphonesimulator/video_thumbnail/video_thumbnail.framework/video_thumbnail'
+relocations:
+  - { offsetInCU: 0x33, offset: 0x1A029, size: 0x8, addend: 0x0, symName: _video_thumbnailVersionString, symObjAddr: 0x0, symBinAddr: 0x2F90, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x1A05D, size: 0x8, addend: 0x0, symName: _video_thumbnailVersionNumber, symObjAddr: 0x30, symBinAddr: 0x2FC0, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x1A099, size: 0x8, addend: 0x0, symName: '+[VideoThumbnailPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x1C81, symSize: 0xB6 }
+  - { offsetInCU: 0x170, offset: 0x1A1E2, size: 0x8, addend: 0x0, symName: '+[VideoThumbnailPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x1C81, symSize: 0xB6 }
+  - { offsetInCU: 0x24E, offset: 0x1A2C0, size: 0x8, addend: 0x0, symName: '-[VideoThumbnailPlugin handleMethodCall:result:]', symObjAddr: 0xB6, symBinAddr: 0x1D37, symSize: 0x5E2 }
+  - { offsetInCU: 0x8AA, offset: 0x1A91C, size: 0x8, addend: 0x0, symName: '___48-[VideoThumbnailPlugin handleMethodCall:result:]_block_invoke', symObjAddr: 0x698, symBinAddr: 0x2319, symSize: 0x6D }
+  - { offsetInCU: 0x97A, offset: 0x1A9EC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x705, symBinAddr: 0x2386, symSize: 0x44 }
+  - { offsetInCU: 0x9B6, offset: 0x1AA28, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x749, symBinAddr: 0x23CA, symSize: 0x2C }
+  - { offsetInCU: 0x9F4, offset: 0x1AA66, size: 0x8, addend: 0x0, symName: '___48-[VideoThumbnailPlugin handleMethodCall:result:]_block_invoke.61', symObjAddr: 0x775, symBinAddr: 0x23F6, symSize: 0x3DF }
+  - { offsetInCU: 0xD5A, offset: 0x1ADCC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b, symObjAddr: 0xB54, symBinAddr: 0x27D5, symSize: 0x4B }
+  - { offsetInCU: 0xDA1, offset: 0x1AE13, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s, symObjAddr: 0xB9F, symBinAddr: 0x2820, symSize: 0x33 }
+  - { offsetInCU: 0xDEA, offset: 0x1AE5C, size: 0x8, addend: 0x0, symName: '+[VideoThumbnailPlugin generateThumbnail:headers:format:maxHeight:maxWidth:timeMs:quality:]', symObjAddr: 0xBD2, symBinAddr: 0x2853, symSize: 0x51D }
+...

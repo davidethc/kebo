@@ -1,0 +1,54 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/monkyd/Desktop/KEBOMOBILEDAVIDE/login/kebo-mobile/build/ios/Debug-prod-iphonesimulator/libphonenumber_plugin/libphonenumber_plugin.framework/libphonenumber_plugin'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x5C09F, size: 0x8, addend: 0x0, symName: _libphonenumber_pluginVersionString, symObjAddr: 0x0, symBinAddr: 0xA770, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5C0D4, size: 0x8, addend: 0x0, symName: _libphonenumber_pluginVersionNumber, symObjAddr: 0x38, symBinAddr: 0xA7A8, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x5C111, size: 0x8, addend: 0x0, symName: '+[FLTLibphonenumberPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x43D4, symSize: 0xC }
+  - { offsetInCU: 0x91, offset: 0x5C17B, size: 0x8, addend: 0x0, symName: '+[FLTLibphonenumberPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x43D4, symSize: 0xC }
+  - { offsetInCU: 0x43, offset: 0x5C22B, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC14phoneNumberKit05PhonegH0AECvpfi', symObjAddr: 0x0, symBinAddr: 0x43E0, symSize: 0x40 }
+  - { offsetInCU: 0xAC, offset: 0x5C294, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC8register4withySo07FlutterE9Registrar_p_tFZTo', symObjAddr: 0x64, symBinAddr: 0x4444, symSize: 0x30 }
+  - { offsetInCU: 0x14D, offset: 0x5C335, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTo', symObjAddr: 0x710, symBinAddr: 0x4AF0, symSize: 0x7C }
+  - { offsetInCU: 0x255, offset: 0x5C43D, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCACycfcTo', symObjAddr: 0x20C8, symBinAddr: 0x64A8, symSize: 0x8C }
+  - { offsetInCU: 0x2AB, offset: 0x5C493, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC8register4withySo07FlutterE9Registrar_p_tFZTf4nd_n', symObjAddr: 0x24EC, symBinAddr: 0x68CC, symSize: 0xD4 }
+  - { offsetInCU: 0x33E, offset: 0x5C526, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC18isValidPhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypQ7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x26A4, symBinAddr: 0x6A84, symSize: 0x32C }
+  - { offsetInCU: 0x445, offset: 0x5C62D, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC20normalizePhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypP7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x29D0, symBinAddr: 0x6DB0, symSize: 0x648 }
+  - { offsetInCU: 0x604, offset: 0x5C7EC, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getRegionInfo4call6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypP7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x3114, symBinAddr: 0x74F4, symSize: 0x6E0 }
+  - { offsetInCU: 0x88D, offset: 0x5CA75, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getNumberType4call6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypP7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x37F4, symBinAddr: 0x7BD4, symSize: 0x570 }
+  - { offsetInCU: 0xA21, offset: 0x5CC09, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC15formatAsYouType4call6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypQ7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x3D64, symBinAddr: 0x8144, symSize: 0x38C }
+  - { offsetInCU: 0xB37, offset: 0x5CD1F, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC25getFormattedExampleNumber4call6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypQ7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x40F0, symBinAddr: 0x84D0, symSize: 0x468 }
+  - { offsetInCU: 0xD39, offset: 0x5CF21, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypM7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x4558, symBinAddr: 0x8938, symSize: 0x7C4 }
+  - { offsetInCU: 0x1308, offset: 0x5D4F0, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCfETo', symObjAddr: 0x2184, symBinAddr: 0x6564, symSize: 0x10 }
+  - { offsetInCU: 0x13A1, offset: 0x5D589, size: 0x8, addend: 0x0, symName: '_$s14PhoneNumberKitAAC16metadataCallbackAB10Foundation4DataVSgyKc_tcfcfA_AGyKcfu_', symObjAddr: 0x2258, symBinAddr: 0x6638, symSize: 0x30 }
+  - { offsetInCU: 0x14E0, offset: 0x5D6C8, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x25C0, symBinAddr: 0x69A0, symSize: 0x40 }
+  - { offsetInCU: 0x14F4, offset: 0x5D6DC, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x2600, symBinAddr: 0x69E0, symSize: 0x40 }
+  - { offsetInCU: 0x1508, offset: 0x5D6F0, size: 0x8, addend: 0x0, symName: '_$sS2SSysWl', symObjAddr: 0x2640, symBinAddr: 0x6A20, symSize: 0x44 }
+  - { offsetInCU: 0x151C, offset: 0x5D704, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCMa', symObjAddr: 0x2684, symBinAddr: 0x6A64, symSize: 0x20 }
+  - { offsetInCU: 0x15FE, offset: 0x5D7E6, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x4D1C, symBinAddr: 0x90FC, symSize: 0x48 }
+  - { offsetInCU: 0x1612, offset: 0x5D7FA, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x4D64, symBinAddr: 0x9144, symSize: 0x24 }
+  - { offsetInCU: 0x1626, offset: 0x5D80E, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x4D88, symBinAddr: 0x9168, symSize: 0x20 }
+  - { offsetInCU: 0x163A, offset: 0x5D822, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x4DA8, symBinAddr: 0x9188, symSize: 0x10 }
+  - { offsetInCU: 0x164E, offset: 0x5D836, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0x4DB8, symBinAddr: 0x9198, symSize: 0x3C }
+  - { offsetInCU: 0x1662, offset: 0x5D84A, size: 0x8, addend: 0x0, symName: '_$s14PhoneNumberKit0aB0VWOs', symObjAddr: 0x4E2C, symBinAddr: 0x920C, symSize: 0x48 }
+  - { offsetInCU: 0x1676, offset: 0x5D85E, size: 0x8, addend: 0x0, symName: '_$s14PhoneNumberKit0aB0VSgWOb', symObjAddr: 0x4E74, symBinAddr: 0x9254, symSize: 0x48 }
+  - { offsetInCU: 0x168A, offset: 0x5D872, size: 0x8, addend: 0x0, symName: '_$s14PhoneNumberKit0aB0VSgWOs', symObjAddr: 0x4EBC, symBinAddr: 0x929C, symSize: 0x48 }
+  - { offsetInCU: 0x169E, offset: 0x5D886, size: 0x8, addend: 0x0, symName: '_$s14PhoneNumberKit0aB0VSgWOe', symObjAddr: 0x4F04, symBinAddr: 0x92E4, symSize: 0x3C }
+  - { offsetInCU: 0x1853, offset: 0x5DA3B, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_SSSgTgm5Tf4g_n', symObjAddr: 0x3018, symBinAddr: 0x73F8, symSize: 0xFC }
+  - { offsetInCU: 0x1BB2, offset: 0x5DD9A, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC8register4withySo07FlutterE9Registrar_p_tFZ', symObjAddr: 0x40, symBinAddr: 0x4420, symSize: 0x4 }
+  - { offsetInCU: 0x1BC6, offset: 0x5DDAE, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCACycfC', symObjAddr: 0x44, symBinAddr: 0x4424, symSize: 0x20 }
+  - { offsetInCU: 0x1CD6, offset: 0x5DEBE, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x94, symBinAddr: 0x4474, symSize: 0x67C }
+  - { offsetInCU: 0x1FAB, offset: 0x5E193, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC18isValidPhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x78C, symBinAddr: 0x4B6C, symSize: 0x26C }
+  - { offsetInCU: 0x20CE, offset: 0x5E2B6, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC20normalizePhoneNumber4call6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x9F8, symBinAddr: 0x4DD8, symSize: 0x4D8 }
+  - { offsetInCU: 0x2283, offset: 0x5E46B, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC16parsePhoneNumber33_FEA20879CEDA46FA4770F565183EEA18LL_10withRegion10ignoreType0gH3Kit0gH0VSS_SSSbtKF', symObjAddr: 0xED0, symBinAddr: 0x52B0, symSize: 0x170 }
+  - { offsetInCU: 0x235C, offset: 0x5E544, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getRegionInfo4call6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x1040, symBinAddr: 0x5420, symSize: 0x58C }
+  - { offsetInCU: 0x25F8, offset: 0x5E7E0, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC13getNumberType4call6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x15CC, symBinAddr: 0x59AC, symSize: 0x41C }
+  - { offsetInCU: 0x2781, offset: 0x5E969, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC15formatAsYouType4call6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x19E8, symBinAddr: 0x5DC8, symSize: 0x2B8 }
+  - { offsetInCU: 0x28A7, offset: 0x5EA8F, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginC25getFormattedExampleNumber4call6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x1CA0, symBinAddr: 0x6080, symSize: 0x39C }
+  - { offsetInCU: 0x2A53, offset: 0x5EC3B, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCACycfc', symObjAddr: 0x203C, symBinAddr: 0x641C, symSize: 0x8C }
+  - { offsetInCU: 0x2A93, offset: 0x5EC7B, size: 0x8, addend: 0x0, symName: '_$s21libphonenumber_plugin25SwiftLibphonenumberPluginCfD', symObjAddr: 0x2154, symBinAddr: 0x6534, symSize: 0x30 }
+  - { offsetInCU: 0x2ACB, offset: 0x5ECB3, size: 0x8, addend: 0x0, symName: '_$sSTsSQ7ElementRpzrlE8containsySbABFSaySSG_Tg5', symObjAddr: 0x2194, symBinAddr: 0x6574, symSize: 0xC4 }
+  - { offsetInCU: 0x2C54, offset: 0x5EE3C, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x2288, symBinAddr: 0x6668, symSize: 0x64 }
+  - { offsetInCU: 0x2C92, offset: 0x5EE7A, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x22EC, symBinAddr: 0x66CC, symSize: 0xE0 }
+  - { offsetInCU: 0x2D06, offset: 0x5EEEE, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSS_Tg5', symObjAddr: 0x23CC, symBinAddr: 0x67AC, symSize: 0x1C }
+  - { offsetInCU: 0x2D44, offset: 0x5EF2C, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5', symObjAddr: 0x23E8, symBinAddr: 0x67C8, symSize: 0x104 }
+...

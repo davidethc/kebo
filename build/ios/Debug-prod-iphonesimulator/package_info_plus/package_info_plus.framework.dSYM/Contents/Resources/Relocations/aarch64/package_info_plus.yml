@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/monkyd/Desktop/KEBOMOBILEDAVIDE/login/kebo-mobile/build/ios/Debug-prod-iphonesimulator/package_info_plus/package_info_plus.framework/package_info_plus'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x57B63, size: 0x8, addend: 0x0, symName: _package_info_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x3230, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x57B98, size: 0x8, addend: 0x0, symName: _package_info_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x3260, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x57BD5, size: 0x8, addend: 0x0, symName: '+[FPPPackageInfoPlusPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x2B2C, symSize: 0xA0 }
+  - { offsetInCU: 0x54, offset: 0x57C02, size: 0x8, addend: 0x0, symName: '+[FPPPackageInfoPlusPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x2B2C, symSize: 0xA0 }
+  - { offsetInCU: 0xB3, offset: 0x57C61, size: 0x8, addend: 0x0, symName: '-[FPPPackageInfoPlusPlugin handleMethodCall:result:]', symObjAddr: 0xA0, symBinAddr: 0x2BCC, symSize: 0x404 }
+...

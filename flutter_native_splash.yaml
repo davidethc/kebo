@@ -1,0 +1,11 @@
+flutter_native_splash:
+  fullscreen: true
+  color: "#ffffff"
+  color_dark: "#ffffff"
+  image: "assets/images/logo.png"
+  android_12:
+    image: "assets/images/logo.png"
+  ios: true
+## Install
+# > flutter pub run flutter_native_splash:create
+ 
